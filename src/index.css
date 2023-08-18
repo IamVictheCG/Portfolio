@@ -212,7 +212,7 @@ div .buttons {
 
 .flexed{
     display: flex;
-    justify-content: space-around;
+    /* justify-content: space-around; */
     margin-right: 6px;
     /* background-color: #00ff6a; */
     /* border: #00ff6a 32px solid; */
