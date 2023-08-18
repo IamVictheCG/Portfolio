@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "thumbNail": "https://res.cloudinary.com/dpzabibqg/image/upload/v1692184030/works/tribute_kklkih.png",
+        "title": "Tribute Page",
+        "link": "https://tribute-page-victorcg.netlify.app/"
+    },
+    {
+        "id": 2,
+        "thumbNail": "https://res.cloudinary.com/dpzabibqg/image/upload/v1692062526/works/drumkit_kvkuwo.png",
+        "title": "Drum Kit",
+        "link": "https://drumkit-victorcg.netlify.app/"
+    },
+    {
+        "id": 3,
+        "thumbNail": "https://res.cloudinary.com/dpzabibqg/image/upload/v1692062526/works/clock_xz4c0k.png",
+        "title": "What says the time",
+        "link": "https://what-says-the-time-victorcg.netlify.app/"
+    },
+    {
+        "id": 4,
+        "thumbNail": "https://res.cloudinary.com/dpzabibqg/image/upload/v1692062525/works/html_canva_niejy8.png",
+        "title": "HTML Canva",
+        "link": "https://html-canva-victorcg.netlify.app/"
+    },
+    {
+        "id": 5,
+        "thumbNail": "https://res.cloudinary.com/dpzabibqg/image/upload/v1692062525/works/city_dmw5ja.png",
+        "title": "City Skyline",
+        "link": "https://cityskyline-victorcg.netlify.app/"
+    },
+
+    {
+        "id": 6,
+        "thumbNail": "https://res.cloudinary.com/dpzabibqg/image/upload/v1692062525/works/productLandingPage_cssj5s.png",
+        "title": "Product Landing Page",
+        "link": "https://product-landing-page-victorcg.netlify.app/"
+    },
+    {
+        "id": 7,
+        "thumbNail": "https://res.cloudinary.com/dpzabibqg/image/upload/v1692062525/works/cafe_fyqhvp.png",
+        "title": "CG Cafe",
+        "link": "https://cafemenu-victorcg.netlify.app/"
+    }
+]
