@@ -1,5 +1,5 @@
 import React from 'react'
-import personal_image from "../images/myphoto.png";
+import personal_image from "../images/myPhoto2_no_bg.png";
 
 function Home() {
   return (

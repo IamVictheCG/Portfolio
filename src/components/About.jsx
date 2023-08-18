@@ -2,6 +2,7 @@ import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faArrowRight, faCircleArrowUp } from "@fortawesome/free-solid-svg-icons";
 function About() {
+  const MyCV = "https://cv-victorcg.netlify.app"
   return (
     <div className="aboutMe" id="aboutMe">
       <header
@@ -43,7 +44,7 @@ function About() {
           {/* <li>: <span className='value text-azure'></span></li> */}
           {/* <li>: <span className='value text-azure'></span></li> */}
         </ul>
-        <a target="_blank" href="https://cv-victorcg.netlify.app">
+        <a target="_blank" href={MyCV} download={"Victor Okechukwu"}>
           <div id="download" className="buttons relative">
             <button type="button">My CV</button>
             <FontAwesomeIcon icon={faArrowRight} className="iconic absolute" />
