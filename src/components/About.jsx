@@ -43,7 +43,7 @@ function About() {
           {/* <li>: <span className='value text-azure'></span></li> */}
           {/* <li>: <span className='value text-azure'></span></li> */}
         </ul>
-        <a href="">
+        <a target="_blank" href="https://cv-victorcg.netlify.app">
           <div id="download" className="buttons relative">
             <button type="button">My CV</button>
             <FontAwesomeIcon icon={faArrowRight} className="iconic absolute" />

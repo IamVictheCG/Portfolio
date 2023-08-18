@@ -10,7 +10,7 @@ body {
 }
 
 .MBody {
-    border: 2px solid salmon;
+    /* border: 2px solid salmon; */
     height: fit-content;
     /* background-color: black; */
 }
@@ -361,30 +361,32 @@ div .buttons {
         background-color: #303030;
     }
     .MBody {
-        border: 2px solid darkblue;
+        border: 0px solid darkblue;
         width: 70%;
+        min-width: 786px;
         margin: auto;
     }
     .home {
         position: relative;
         /* gap: 0px; */
-        border: #b90f0f solid 2px;
+        /* border: #b90f0f solid 2px; */
         width: 100%;
-        /* height: 360px; */
+        height: 300px;
     }
     
     .personal {
         /* border: #0f97b9 solid 2px; */
-        width: 300px;
-        height: 300px;
+        width: 30%;
+        height: 90%;
         margin: 0px;
     }
     
     .home .nameAnd {
         position: absolute;
-        border: #381e1e solid 2px;
-        width: 550px;
-        top: 20%;
+        /* margin-left: 3%; */
+        /* border: #381e1e solid 2px; */
+        width: 50%;
+        top: 10%;
         left: 40%;
     }
     
