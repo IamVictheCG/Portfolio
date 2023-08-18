@@ -11,7 +11,7 @@ function About() {
       >
         ABOUT <span className="text-Orange">ME</span>
       </header>
-      <h1 className="text-xl font-bold mb-7">PERSONAL INFOS</h1>
+      <h1 className="text-xl font-bold mb-7 ml-3">PERSONAL INFOS</h1>
       <div className="group1">
         <ul className="infos">
           <li>
