@@ -1,6 +1,6 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faDownload } from "@fortawesome/free-solid-svg-icons";
+import { faArrowRight, faCircleArrowUp } from "@fortawesome/free-solid-svg-icons";
 function About() {
   return (
     <div className="aboutMe" id="aboutMe">
@@ -45,8 +45,8 @@ function About() {
         </ul>
         <a href="">
           <div id="download" className="buttons relative">
-            <button type="button">Download</button>
-            <FontAwesomeIcon icon={faDownload} className="iconic absolute" />
+            <button type="button">My CV</button>
+            <FontAwesomeIcon icon={faArrowRight} className="iconic absolute" />
           </div>
         </a>
 

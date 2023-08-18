@@ -4,7 +4,7 @@ import ContactMe from './components/ContactMe.jsx'
 import Home from './components/Home.jsx'
 import MyPortfolio from './components/MyPortfolio.jsx'
 import MySkills from './components/MySkills.jsx'
-import About from './components/about.jsx'
+import About from './components/About.jsx'
 
 // import { library } from '@fortawesome/fontawesome-svg-core';
 // import { fab } from '@fortawesome/free-brands-svg-icons'
