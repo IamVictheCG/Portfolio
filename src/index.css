@@ -438,7 +438,7 @@ div .buttons {
     
     .work {
         width: 300px;
-        border: #37b90f 4px solid !important;
+        /* border: #37b90f 4px solid !important; */
     }
     .flexed:nth-child(1) {
         margin-left: 30px;
