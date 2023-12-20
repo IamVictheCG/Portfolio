@@ -5,7 +5,7 @@ import { buildStyles } from 'react-circular-progressbar'
 
 function MySkills() {
   // const [Html, setHtml] = useState(90)
-  const Html = 90
+  const Html = 100
   const CSS = 84
   const JAVASCRIPT = 70
   const REACT = 60
