@@ -34,7 +34,7 @@ function About() {
             Last name: <span className="value text-azure">Okechukwu</span>
           </li>
           <li>
-            Age: <span className="value text-azure">22 years</span>
+            Age: <span className="value text-azure">{age} years</span>
           </li>
           <li>
             Nationality: <span className="value text-azure">Nigeria</span>
