@@ -3,6 +3,19 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faArrowRight, faCircleArrowUp } from "@fortawesome/free-solid-svg-icons";
 function About() {
   const MyCV = "https://cv-victorcg.netlify.app"
+  const birthdate = new Date("2001-06-24");
+
+  const calculateAge = () => {
+    const today = new Date();
+    const age = today.getFullYear() - birthdate.getFullYear();
+    const monthDiff = today.getMonth() - birthdate.getMonth();
+    return monthDiff < 0 || (monthDiff === 0 && today.getDate() < birthdate.getDate())
+      ? age - 1
+      : age;
+  };
+
+  const age = calculateAge();
+
   return (
     <div className="aboutMe" id="aboutMe">
       <header
